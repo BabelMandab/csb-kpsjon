@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://babelmandab.github.io/csb-kpsjon/static/js/main.4169133f.chunk.js",
+    "main.js.map": "https://babelmandab.github.io/csb-kpsjon/static/js/main.4169133f.chunk.js.map",
+    "runtime-main.js": "https://babelmandab.github.io/csb-kpsjon/static/js/runtime-main.de8c222c.js",
+    "runtime-main.js.map": "https://babelmandab.github.io/csb-kpsjon/static/js/runtime-main.de8c222c.js.map",
+    "static/js/2.fc726699.chunk.js": "https://babelmandab.github.io/csb-kpsjon/static/js/2.fc726699.chunk.js",
+    "static/js/2.fc726699.chunk.js.map": "https://babelmandab.github.io/csb-kpsjon/static/js/2.fc726699.chunk.js.map",
+    "index.html": "https://babelmandab.github.io/csb-kpsjon/index.html",
+    "precache-manifest.b01fa80c2e668d5e13f92336b37473c0.js": "https://babelmandab.github.io/csb-kpsjon/precache-manifest.b01fa80c2e668d5e13f92336b37473c0.js",
+    "service-worker.js": "https://babelmandab.github.io/csb-kpsjon/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de8c222c.js",
+    "static/js/2.fc726699.chunk.js",
+    "static/js/main.4169133f.chunk.js"
+  ]
+}
